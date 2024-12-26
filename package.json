@@ -1,7 +1,7 @@
 {
   "name": "word-capitalize",
-  "version": "1.0.0",
-  "description": "capitalize words",
+  "version": "1.0.1",
+  "description": "word-capitalize is a lightweight utility package that capitalizes the first letter of every word in a given string. Perfect for formatting titles, sentences, and other text in JavaScript or Node.js applications.",
   "main": "index.js",
   "type": "module",
   "scripts": {
@@ -12,12 +12,17 @@
     "url": "git+https://github.com/haxcod/words-capitalize.git"
   },
   "keywords": [
-    "npm"
+    "npm",
+    "word-capitalization",
+    "string-utils",
+    "text-formatting",
+    "text-capitalization",
+    "capitalize-words"
   ],
   "author": "haxcod",
   "license": "Apache-2.0",
   "bugs": {
-    "url": "https://github.com/haxcod/words-capitalize/issues"
+    "url": "https://github.com/haxcod/word-capitalize/issues"
   },
-  "homepage": "https://github.com/haxcod/words-capitalize#readme"
+  "homepage": "https://github.com/haxcod/word-capitalize#readme"
 }
