@@ -1,0 +1,23 @@
+{
+  "name": "word-capitalize",
+  "version": "1.0.0",
+  "description": "capitalize words",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/haxcod/words-capitalize.git"
+  },
+  "keywords": [
+    "npm"
+  ],
+  "author": "haxcod",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/haxcod/words-capitalize/issues"
+  },
+  "homepage": "https://github.com/haxcod/words-capitalize#readme"
+}
